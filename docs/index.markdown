@@ -33,7 +33,7 @@ layout: default
 
 # エントリー作品一覧
 ### ■ kotatsu515 さん
-[作品リンク](https://github.com/koruneko/JPPGB-GameContest-0/blob/main/01.kotatsu515さん/515_kotatsu_【JPPGB】ゲーム作成コンテスト%20#0_kotatsu515_暗記ゲーム.zip)  
+[作品リンク](https://github.com/koruneko/JPPGB-GameContest-0/blob/main/01.kotatsu515さん/515_kotatsu_【JPPGB】ゲーム作成コンテスト%20%230_kotatsu515_暗記ゲーム.zip)  
 [資料リンク](https://github.com/koruneko/JPPGB-GameContest-0/blob/main/01.kotatsu515さん/515_kotatsu_【JPPGB】ゲーム作成コンテスト%20kotatsu515_作品紹介.pptx)
 
 ### ■ Mashiro Misima さん
@@ -42,7 +42,6 @@ layout: default
 
 ### ■ PPログ さん
 [作品リンク](https://github.com/koruneko/JPPGB-GameContest-0/blob/main/03.PPログさん/PP_ログ_PPログ_リバーシ.msapp)  
-[資料リンク](https://github.com/koruneko/JPPGB-GameContest-0/blob/main/03.PPログさん/PP_ログ_PPログ_リバーシ.msapp.mp4)
 
 ### ■ ヨウセイ さん
 [作品リンク](https://github.com/koruneko/JPPGB-GameContest-0/blob/main/04.ヨウセイ/ニシムラ_ヨウセイ_Powerパチスロ1号機-ヨウセイVer-_20230625071309.zip)  
